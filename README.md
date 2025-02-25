@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Candy Crush Game Preview]()
+![Candy Crush Game Preview](https://github.com/Shivgupta2983/Candy-Crush-Game/blob/13ec287dace55723fa9e60034080145857dd1e50/Preview-image.png)
 
 ## Overview
 
