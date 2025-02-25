@@ -59,4 +59,4 @@ You can customize the game by modifying the following:
 
 ## License
 
-[MIT License](LICENSE) 📝  [Replace with your chosen license]
+[MIT License](LICENSE) 📝
