@@ -59,4 +59,6 @@ You can customize the game by modifying the following:
 
 ## License
 
-[MIT License](LICENSE) 📝
+## License
+
+[GNU General Public License v3.0](LICENSE) 📝
